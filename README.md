@@ -96,7 +96,7 @@ API_KEY=your-api-key-here
 ---
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/denki307/KANILMUSICBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/denki307/cheku_og)
 
 ---
 
@@ -117,7 +117,7 @@ API_KEY=your-api-key-here
    ```
 4. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/denki307/cheku_og && cd cheku_og
    ```
 5. **Install Requirements**
    ```bash
